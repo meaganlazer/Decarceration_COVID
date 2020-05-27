@@ -1,2 +1,4 @@
 # Incarceration_COVID
-Scraping project, in-progress
+In-progress.
+
+The machinations of Solomon Grundy and Liz Lazer.
